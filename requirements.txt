@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-core
+python-dotenv
+google-generativeai
+yt_dlp
+opencv-python
+pillow
+numpy
+requests
